@@ -314,7 +314,7 @@ export default function App() {
               className="font-display italic text-rose-600 text-2xl sm:text-3xl mb-2"
             >
               {/* ── Edita el nombre aquí ── */}
-              Nayeli Saltos
+              Nallely Saltos
             </motion.p>
 
             {/* CTA scroll */}
@@ -387,7 +387,7 @@ export default function App() {
                 </div>
                 {/* ── Firma — edita el nombre aquí ── */}
                 <p className="font-display italic text-rose-600 text-xl text-right">
-                  Con amor, Nayeli
+                  Con amor, Nallely
                 </p>
               </div>
             </motion.div>
@@ -494,7 +494,7 @@ export default function App() {
                       </p>
                       {/* ── Edita el nombre aquí ── */}
                       <p className="text-rose-400 text-sm mt-1 tracking-wide">
-                        — Nayeli Saltos
+                        — Nallely Saltos
                       </p>
                     </div>
                   </div>
@@ -520,7 +520,7 @@ export default function App() {
                         </div>
                         <div>
                           <p className="text-rose-300 text-[10px] tracking-[0.22em] uppercase mb-0.5">Fecha</p>
-                          <p className="text-rose-700 font-medium text-sm sm:text-base">Viernes, 25 de Julio</p>
+                          <p className="text-rose-700 font-medium text-sm sm:text-base">Sabado, 25 de Julio</p>
                         </div>
                       </div>
 
@@ -532,7 +532,7 @@ export default function App() {
                         </div>
                         <div>
                           <p className="text-rose-300 text-[10px] tracking-[0.22em] uppercase mb-0.5">Hora</p>
-                          <p className="text-rose-700 font-medium text-sm sm:text-base">18:00 hrs. en punto</p>
+                          <p className="text-rose-700 font-medium text-sm sm:text-base">20:00 hrs. en punto</p>
                         </div>
                       </div>
 
@@ -561,17 +561,6 @@ export default function App() {
                         </div>
                       </div>
                     </div>
-
-                    {/* ── Confirmación — edita aquí ── */}
-                    <div className="pt-5 border-t border-rose-50">
-                      <p className="text-rose-300 text-[10px] tracking-[0.22em] uppercase mb-1.5">
-                        Confirmar asistencia
-                      </p>
-                      <p className="text-rose-600 font-medium text-sm sm:text-base">[WhatsApp / Teléfono]</p>
-                      <p className="text-rose-300 text-xs mt-1">Confirmar antes del [fecha límite]</p>
-                    </div>
-                  </div>
-                </div>
 
                 {/* Pie ornamental de la tarjeta */}
                 <div className="px-7 sm:px-12 pb-9 pt-2 text-center">
