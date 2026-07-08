@@ -573,13 +573,6 @@ export default function App() {
                   </div>
                 </div>
 
-                {/* Cinta degradado bottom */}
-                <div className="h-1.5 bg-gradient-to-r from-fuchsia-300 via-pink-400 to-rose-300" />
-              </div>
-            </motion.div>
-          </div>
-        </section>
-
         {/* ══════════════════════════════════════════════════════════════════
             CIERRE — despedida emotiva
         ══════════════════════════════════════════════════════════════════ */}
